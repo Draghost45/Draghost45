@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draghost45&label=Profile%20views&color=0e75b6&style=flat" alt="draghost45" /> </p>
 
-- 🌱 I’m currently learning **AWS, Machine Learning, Data Analytics**
+- 🌱 I’m currently learning **AWS, Machine Learning, Data Analytics. Also, started to learn electrical components with Arduino and RaspberryPi.**
 
 - 📫 How to reach me **avargaspal123@gmail.com**
 
